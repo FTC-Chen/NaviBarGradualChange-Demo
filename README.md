@@ -1,0 +1,2 @@
+# NaviBarGradualChange
+UINavigationBarGradualChange
