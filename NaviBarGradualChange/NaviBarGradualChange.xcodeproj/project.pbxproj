@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B20E7841DE2F3640001005C /* naviBar.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7B20E7831DE2F3640001005C /* naviBar.gif */; };
 		7BFC60FD1DDEEDE500BB367D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BFC60FC1DDEEDE500BB367D /* main.m */; };
 		7BFC61001DDEEDE500BB367D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BFC60FF1DDEEDE500BB367D /* AppDelegate.m */; };
 		7BFC61031DDEEDE500BB367D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BFC61021DDEEDE500BB367D /* ViewController.m */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7B20E7831DE2F3640001005C /* naviBar.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = naviBar.gif; sourceTree = "<group>"; };
 		7BFC60F81DDEEDE500BB367D /* NaviBarGradualChange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NaviBarGradualChange.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BFC60FC1DDEEDE500BB367D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7BFC60FE1DDEEDE500BB367D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				7BFC612E1DDEF1FC00BB367D /* book@2x.jpeg */,
 				7BFC61301DDEF61000BB367D /* add2@2x.png */,
 				7BFC61311DDEF61000BB367D /* fanhui@2x.png */,
+				7B20E7831DE2F3640001005C /* naviBar.gif */,
 				7BFC60FE1DDEEDE500BB367D /* AppDelegate.h */,
 				7BFC60FF1DDEEDE500BB367D /* AppDelegate.m */,
 				7BFC61011DDEEDE500BB367D /* ViewController.h */,
@@ -256,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B20E7841DE2F3640001005C /* naviBar.gif in Resources */,
 				7BFC61321DDEF61000BB367D /* add2@2x.png in Resources */,
 				7BFC612F1DDEF1FC00BB367D /* book@2x.jpeg in Resources */,
 				7BFC610B1DDEEDE500BB367D /* LaunchScreen.storyboard in Resources */,
@@ -520,6 +524,7 @@
 				7BFC61271DDEEDE500BB367D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7BFC61281DDEEDE500BB367D /* Build configuration list for PBXNativeTarget "NaviBarGradualChangeTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +533,7 @@
 				7BFC612A1DDEEDE500BB367D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7BFC612B1DDEEDE500BB367D /* Build configuration list for PBXNativeTarget "NaviBarGradualChangeUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +542,7 @@
 				7BFC612D1DDEEDE500BB367D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
