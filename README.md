@@ -1,2 +1,2 @@
 # NaviBarGradualChange
-UINavigationBarGradualChange
+UINavigationBar GradualChange, use Custom Bar.
